@@ -2,6 +2,6 @@
 
 This app finds users and their repos by using the Github API.
 
-Technologies used: React, Vite, TailwindCSS, DaisyUi, Axios.
+Technologies used: React, Vite, Tailwind CSS, daisyUI, Axios.
 
-A preview is available live at <mark>my-github-repo-navy.vercel.app</mark>
+A life preview is available on **[Vercel](my-github-repo-navy.vercel.app)**.
